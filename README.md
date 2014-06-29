@@ -17,7 +17,7 @@ Once the plugin has been installed, it may be enabled inside your Gruntfile with
 grunt.loadNpmTasks('grunt-mongo-backup');
 ```
 
-## The mongoimport task
+## The mongobackup task
 
 ### Overview
 In your project's Gruntfile, add a section named `mongoimport` to the data object passed into `grunt.initConfig()`.
