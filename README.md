@@ -41,8 +41,19 @@ grunt.initConfig({
 });
 ```
 
-## Options
+## Basic Usage
 
+### Mongodb Dump 
+```
+grunt mongobackup:dump
+```
+
+### Mongodb Restore 
+```
+grunt mongobackup:restore
+```
+
+## Options
 
 Consult mongodb docs - mongodump and mongorestore for optional params.  
 
