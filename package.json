@@ -1,0 +1,43 @@
+{
+  "name": "grunt-mongo-backup",
+  "description": "Grunt task for managing mongodb backups",
+  "version": "0.0.1",
+  "homepage": "https://github.com/seogrady/grunt-mongo-backup",
+  "author": {
+    "name": "Shane O'Grady",
+    "email": "shane@knifemedia.com.au"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seogrady/grunt-mongo-backup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seogrady/grunt-mongo-backup/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/seogrady/grunt-mongo-backup/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.10.22"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin",
+    "grunt",
+    "mongodb",
+    "mongo",
+    "dump",
+    "restore",
+    "import",
+    "export"
+  ]
+}
