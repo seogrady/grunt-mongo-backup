@@ -6,12 +6,12 @@ module.exports = function(grunt) {
       options: {
         host : 'localhost',
         port: '27017',
-        db : 'fullstack-dev', 
+        db : 'database-dev', 
         dump:{
           out : './dump',
         },    
         restore:{
-          path : './dump/fullstack-dev',          
+          path : './dump/database-dev',          
           drop : true
         }
       }  
