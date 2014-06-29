@@ -1,7 +1,7 @@
 {
   "name": "grunt-mongo-backup",
   "description": "Grunt task for managing mongodb backups",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/seogrady/grunt-mongo-backup",
   "author": {
     "name": "Shane O'Grady",
