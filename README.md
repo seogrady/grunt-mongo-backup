@@ -20,7 +20,7 @@ grunt.loadNpmTasks('grunt-mongo-backup');
 ## The mongobackup task
 
 ### Overview
-In your project's Gruntfile, add a section named `mongoimport` to the data object passed into `grunt.initConfig()`.
+In your project's Gruntfile, add a section named `mongobackup` to the data object passed into `grunt.initConfig()`.
 
 ```
 grunt.initConfig({
